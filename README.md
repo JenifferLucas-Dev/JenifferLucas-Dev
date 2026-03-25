@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá! Tudo bem? Eu sou a Jeniffer!
 
-<!--
-**JenifferLucas-Dev/JenifferLucas-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formada em Análise e Desenvolvimento de Sistemas  
+🛡️ Interesse em Cibersegurança  
+💻 Estudando Python e Backend  
+📊 Conhecimentos em Dados (Power BI, Excel)  
+☁️ Cloud: AWS, Google Cloud e Azure  
 
-Here are some ideas to get you started:
+🚀 Atualmente focada em evoluir na área de tecnologia e construir projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias
+- Python
+- JS, CSS e HTML
+- Power BI
+- Excel
+- Cloud (AWS, GCP, Azure)
+
+---
+
+### 📚 Em aprendizado
+- Cibersegurança
+- Backend com Python
+- Inteligência Artificial
+
+---
+
+✨ Em constante evolução
+
