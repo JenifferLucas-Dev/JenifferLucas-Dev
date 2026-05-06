@@ -2,7 +2,7 @@
 
 🎓 Formada em Análise e Desenvolvimento de Sistemas  
 🛡️ Interesse em Cibersegurança  
-💻 Estudando Python e Backend  
+💻 Estudando Python e Redes 
 📊 Conhecimentos em Dados (Power BI, Excel)  
 ☁️ Cloud: AWS, Google Cloud e Azure  
 
@@ -22,7 +22,6 @@
 ### 📚 Em aprendizado
 - Cibersegurança
 - Backend com Python
-- Inteligência Artificial
 
 ---
 
